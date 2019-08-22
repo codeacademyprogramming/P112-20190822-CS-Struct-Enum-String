@@ -25,6 +25,8 @@ namespace PropertiesProj
             mentor1.Email = "afiq@code.edu.az";
             mentor1.Phone = "0515090515";
 
+            Console.WriteLine(mentor1.GetInfo()); 
+
             group1.GroupMentor = mentor1;
 
             Console.ReadLine();

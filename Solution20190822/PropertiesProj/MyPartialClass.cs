@@ -5,8 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using PropertiesProj;
 
-namespace PropertiesProj.Partials
+namespace PropertiesProj
 {
+
     public partial class Mentor
     {
 
